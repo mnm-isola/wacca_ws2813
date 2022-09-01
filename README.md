@@ -44,7 +44,7 @@ Working design comfirmed by myself.
 
 ## Manufracturing warnings
 
-[Datasheet of WS2813]([https://pdf1.alldatasheet.com/datasheet-pdf/view/1134580/WORLDSEMI/WS2813.html)
+[Datasheet of WS2813]([https://pdf1.alldatasheet.com/datasheet-pdf/view/1134580/WORLDSEMI/WS2813.html])
 
 According to page 7: These LEDs are moisture sensitive, they need to be baked and dried before SMT assembly. Not all PCB fabs have this procedure  (eg JLCPCB's economic option), **be sure to consult and notify the fab of your choice before mass producing the PCBs, otherwise you may end up with extremely high failure rate**. (I learnt it the hard way so you don't have to.)
 
