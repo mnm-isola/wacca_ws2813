@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Desktop\projects\wacca\wacca_ws2813_2\wacca_ws2813.kicad_sch</source>
+    <date>10-Jul-22 21:53:25</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>wacca_ws2813.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efb39e4b-4efb-4caa-85d5-89cf60647e13</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14d8c850-d5e1-47c1-b1ab-9a09042461b7</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee9249ae-8ca6-400e-a790-e9a51d58204e</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0366886-7b24-4651-a4b2-83179c4cc7a3</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>217058c6-82c1-4fcc-8362-f92815bdb983</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5eff4c6f-d670-4c52-a060-bc1ad8afb301</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e8e0f14-0948-46c2-ac98-2f052ee59657</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95e5c28f-fac4-4850-b008-e5a658318b67</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1000uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcc25ce4-014f-4f6c-bd35-2b49b962fcfa</tstamps>
+    </comp>
+    <comp ref="CN1">
+      <value>JST XA 3p</value>
+      <footprint>Connector_JST:JST_XA_B03B-XASK-1_1x03_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71057709-579b-4d73-b723-32ae046cbda3</tstamps>
+    </comp>
+    <comp ref="CN2">
+      <value>JST XA 3p</value>
+      <footprint>Connector_JST:JST_XA_B03B-XASK-1_1x03_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adbd1cab-cc85-4323-abd1-666eeafd2ad4</tstamps>
+    </comp>
+    <comp ref="CN3">
+      <value>JST XA 4p</value>
+      <footprint>Connector_JST:JST_XA_B04B-XASK-1_1x04_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63a6f31f-4e7f-4ddf-8188-bf8ef72baa24</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>WS2813</value>
+      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <datasheet>http://www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf</datasheet>
+      <libsource lib="LED" part="WS2813" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4419bfd1-70d0-445a-a9e0-db7e4630c9d6</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>WS2813</value>
+      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <datasheet>http://www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf</datasheet>
+      <libsource lib="LED" part="WS2813" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4265c4ac-c7dc-403b-bef4-308d2f994214</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>WS2813</value>
+      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <datasheet>http://www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf</datasheet>
+      <libsource lib="LED" part="WS2813" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc1bb2f1-84e7-49a9-91b2-a9c9eeb1a29c</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>WS2813</value>
+      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <datasheet>http://www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf</datasheet>
+      <libsource lib="LED" part="WS2813" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a63310c-d4fc-44b3-9a14-f3a044e01022</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>WS2813</value>
+      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <datasheet>http://www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf</datasheet>
+      <libsource lib="LED" part="WS2813" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d5c7d8a-b575-45f7-b0aa-3db91bef4cd2</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>WS2813</value>
+      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <datasheet>http://www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf</datasheet>
+      <libsource lib="LED" part="WS2813" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e225c1a-5720-4152-94f2-b1ad37d87002</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>WS2813</value>
+      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <datasheet>http://www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf</datasheet>
+      <libsource lib="LED" part="WS2813" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c8a5d67-ebfa-4196-bff4-192e943af465</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>WS2813</value>
+      <footprint>LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</footprint>
+      <datasheet>http://www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf</datasheet>
+      <libsource lib="LED" part="WS2813" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e91230d-bcd0-4024-9d10-06be8570daaf</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd7cf99b-c862-4033-be8a-c192062500b0</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>280a9d75-522a-4f2f-acf3-70ebac4a6333</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>322f813d-ceca-4463-8f5c-1dd8109d4633</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46f27526-fcb2-4275-8b90-a641ec37c2ef</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>1503a</value>
+      <footprint>Package_TO_SOT_SMD:TSOT-23_HandSoldering</footprint>
+      <libsource lib="1503a" part="1503a" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99382bd0-d168-4976-a4aa-bc323f038b45</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>1503a</value>
+      <footprint>Package_TO_SOT_SMD:TSOT-23_HandSoldering</footprint>
+      <libsource lib="1503a" part="1503a" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="wacca_ws2813.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>827154f4-1d25-4dbf-83a0-33d9682ce677</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="1503a" part="1503a">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">1503a</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+        <pin num="3" name="3" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="WS2813">
+      <description>RGB LED with integrated controller</description>
+      <docs>http://www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P1.6mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2813</field>
+        <field name="Footprint">LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm</field>
+        <field name="Datasheet">http://www.normandled.com/upload/201605/WS2813%20LED%20Datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="DOUT" type="output"/>
+        <pin num="4" name="DIN" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="BIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="1503a">
+      <uri>D:\Desktop\projects\wacca\wacca_ws2813_2/1503a.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/LED.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="CN1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CN2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CN3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CN3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D2" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D3" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D4" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D5" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D6" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D7" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D8" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="2" pintype="input"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="CN1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CN2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CN3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CN3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="D1" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="D1" pin="6" pinfunction="BIN" pintype="input"/>
+      <node ref="D2" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="D3" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="D4" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="D5" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="D6" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="D7" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="D8" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="3" name="LED_IN">
+      <node ref="D1" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="D2" pin="6" pinfunction="BIN" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="3" pintype="output"/>
+    </net>
+    <net code="4" name="LED_OUT">
+      <node ref="D8" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="3" pintype="output"/>
+    </net>
+    <net code="5" name="Net-(CN1-Pad2)">
+      <node ref="CN1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(CN2-Pad2)">
+      <node ref="CN2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D1-Pad3)">
+      <node ref="D1" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D2" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="D3" pin="6" pinfunction="BIN" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(D2-Pad3)">
+      <node ref="D2" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D3" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="D4" pin="6" pinfunction="BIN" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(D3-Pad3)">
+      <node ref="D3" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D4" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="D5" pin="6" pinfunction="BIN" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(D4-Pad3)">
+      <node ref="D4" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D5" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="D6" pin="6" pinfunction="BIN" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(D5-Pad3)">
+      <node ref="D5" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D6" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="D7" pin="6" pinfunction="BIN" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(D6-Pad3)">
+      <node ref="D6" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D7" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="D8" pin="6" pinfunction="BIN" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(D7-Pad3)">
+      <node ref="D7" pin="3" pinfunction="DOUT" pintype="output"/>
+      <node ref="D8" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="14" name="unconnected-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="VCC" pintype="power_in+no_connect"/>
+    </net>
+    <net code="15" name="unconnected-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="VCC" pintype="power_in+no_connect"/>
+    </net>
+    <net code="16" name="unconnected-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="VCC" pintype="power_in+no_connect"/>
+    </net>
+    <net code="17" name="unconnected-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="VCC" pintype="power_in+no_connect"/>
+    </net>
+    <net code="18" name="unconnected-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="VCC" pintype="power_in+no_connect"/>
+    </net>
+    <net code="19" name="unconnected-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="VCC" pintype="power_in+no_connect"/>
+    </net>
+    <net code="20" name="unconnected-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="VCC" pintype="power_in+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(D8-Pad1)">
+      <node ref="D8" pin="1" pinfunction="VCC" pintype="power_in+no_connect"/>
+    </net>
+  </nets>
+</export>
