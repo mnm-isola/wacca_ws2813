@@ -10,6 +10,8 @@
 
 Working design comfirmed by myself.
 
+I put 2 sticks in service since 10-Aug-2022, still going fine (last update: 27-Sep-2022), C9 not installed.
+
 ---
 
 ##### wacca_ws2813_rev20220814
