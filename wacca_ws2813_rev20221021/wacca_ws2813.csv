@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+"100nF","C1,C2,C3,C4,C5,C6,C7,C8","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",""
+"1000uF","C9","Capacitor_THT:CP_Radial_D5.0mm_P2.50mm",""
+"JST XA 3p","CN1,CN2","Connector_JST:JST_XA_B03B-XASK-1_1x03_P2.50mm_Vertical",""
+"JST XA 4p","CN3","Connector_JST:JST_XA_B04B-XASK-1_1x04_P2.50mm_Vertical",""
+"WS2813","D1,D2,D3,D4,D5,D6,D7,D8","LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm",""
+"M3","H1,H2","MountingHole:MountingHole_3.2mm_M3",""
+"100","R1,R2","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",""
+"1503a","U1,U2","Package_TO_SOT_SMD:TSOT-23_HandSoldering",""
